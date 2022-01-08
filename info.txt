@@ -1,0 +1,5 @@
+Hi Hello
+commit #2 during sqash activity
+commit #3 during sqash activity
+commit #4 during sqash activty
+
